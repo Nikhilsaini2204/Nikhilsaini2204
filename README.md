@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Nikhilsaini2204/Small-Frontend-Projects/main/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/Nikhilsaini2204/Small-Frontend-Projects/main/name.svg" alt="Nikhil Saini" />
 </h1>
 <h1 align="center">Hi 👋, I'm Nikhil Saini</h1>
 <h3 align="center">Enthusiastic CSE Undergrad | Coding, Coffee, and Curiosity</h3>
