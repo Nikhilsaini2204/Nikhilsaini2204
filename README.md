@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil Saini</h1>
 <h3 align="center">Enthusiastic CSE Undergrad | Coding, Coffee, and Curiosity</h3>
 
-- 🔭 I’m currently working on **Real Estate Website using MERN**
+- 🔭 I’m currently working on **Something⚡️ - Job Platform**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **MERN**
 
