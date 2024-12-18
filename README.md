@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Saini</h1>
 <h3 align="center">Enthusiastic CSE Undergrad | Coding, Coffee, and Curiosity</h3>
 
-- 🔭 I’m currently working on **Something⚡️-Job Platform**
+- 🔭 I’m currently working on **Something⚡️-Job Platform** & **AI PDF Note-Taking App**
 
 - 🌱 I’m currently learning **Next Js**
 
