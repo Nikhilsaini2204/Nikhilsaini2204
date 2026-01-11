@@ -2,17 +2,17 @@
   <img src="https://raw.githubusercontent.com/Nikhilsaini2204/Small-Frontend-Projects/main/name.svg" alt="Nikhil Saini" />
 </h1>
 <h1 align="center">Hi 👋, I'm Nikhil Saini</h1>
-<h3 align="center">Enthusiastic CSE Undergrad | Coding, Coffee, and Curiosity</h3>
+<h3 align="center">Software Development Engineer | Coding, Coffee, and Curiosity</h3>
 
-- 🔭 I’m currently working on **Something⚡️-Job Platform** & **AI PDF Note-Taking App**
+- 🔭 I’m currently working on **Java Code Analyzer AI Agent**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Backend Systems** & **Cloud**
 
 - 📫 How to reach me **nikhilsaini6742@gmail.com**
 
-- ⚡ Fun fact **is Me**
+- ⚡ Fun fact **I break my own code just to make it more reliable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
