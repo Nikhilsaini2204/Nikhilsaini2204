@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Saini</h1>
 <h3 align="center">Software Development Engineer | Coding, Coffee, and Curiosity</h3>
 
-- 🔭 I’m currently working on **Java Code Analyzer AI Agent**
+- 🔭 I’m currently working on **niks - My personal Claude Code/Cursor**
 
 - 🌱 I’m currently learning **Agentic AI**
 
